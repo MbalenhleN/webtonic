@@ -1,0 +1,11 @@
+//Requiring my custom CSS file
+
+// Fonts
+@import url('https://use.fontawesome.com/releases/v5.7.2/css/all.css');
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~jquery-ui/themes/base/all.css';
+@import 'myCSS/myCSS';
+@import 'myCSS/animate';
+@import "~datatables.net-autofill-bs4/css/autoFill.bootstrap4.min.css";
+@import "~datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css";
